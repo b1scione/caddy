@@ -1,4 +1,4 @@
-module github.com/caddyserver/caddy/v2
+module github.com/b1scione/caddy/v0
 
 go 1.16
 
