@@ -26,7 +26,7 @@ require (
 	github.com/yuin/goldmark-highlighting v0.0.0-20210516132338-9216f9c5aa01
 	go.uber.org/zap v1.19.0
 	golang.org/x/crypto v0.0.0-20210915214749-c084706c2272
-	golang.org/x/net v0.0.0-20210913180222-943fd674d43e
+	golang.org/x/net v0.0.0-20220106012031-21a9c9cfe9c3
 	golang.org/x/term v0.0.0-20210503060354-a79de5458b56
 	google.golang.org/genproto v0.0.0-20210719143636-1d5a45f8e492
 	google.golang.org/protobuf v1.27.1
